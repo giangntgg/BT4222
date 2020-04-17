@@ -8,3 +8,4 @@ In such case, please run each hashtag mined respectively. Between each hashtags,
 3. Alternative, we have also zipped in our data files so that the codes could be run without mining the Twitter files again, as follows:
     a. Singapore Airline Data folder inside the Singapore Airline folder
     b. Amazon Data folder inside the Amazon folder
+4. STEP 5 runs on a seperate data file namely amazon.csv and airline.csv (included in the folder mentioned in 3)
